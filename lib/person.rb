@@ -6,4 +6,6 @@ def Talk
 end
 
 def Walk
-  puts ""
+  puts "The Person is walking"
+end
+
