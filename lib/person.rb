@@ -1,11 +1,11 @@
 class Person
 end
 
-def Talk
+def talk
   puts "Hello World!"
 end
 
-def Walk
+def walk
   puts "The Person is walking"
 end
 
